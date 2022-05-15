@@ -1,6 +1,6 @@
 # Reinforcement Learning
 
-The goal in this project was to create an RL network that can balance pole in the CartPole game for 400 frames.
+The goal in this project was to create an RL network that can balance a pole in the CartPole game for 400 frames.
 
 Two approaches were taken to solve the problem:
 
